@@ -26,7 +26,7 @@ a data.frame with the same number of columns.
 }
 \description{
 This function takes absolute spirometry measurements (FEV1, FVC or FEV1FVC)
-in lt plus demographic data (age, height, gender and ethnicity) and converts
+in lt plus demographic data (age, height, gender) and converts
 them to percent (\%) predicted based on the GLI global (2022) equations.
 }
 \details{
